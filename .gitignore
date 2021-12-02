@@ -1,0 +1,5 @@
+node_modules/
+local.log
+errorShots
+browserstack/node_modules/
+sauce-labs/node_modules/
